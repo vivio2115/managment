@@ -1,6 +1,14 @@
 [package]
 name = "managment"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 [dependencies]
+serde = "1.0"
+serde_json = "1.0"
+reqwest = { version = "0.11", features = ["stream", "json"] }
+tokio = { version = "1", features = ["full"] }
+indicatif = "0.17.9"
+colored = "2.2.0"
+futures-util = "0.3.31"
+
