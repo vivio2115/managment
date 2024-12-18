@@ -4,6 +4,8 @@ The progam was written in rust in the RustRover IDE. I spent some time writing i
 To install the .exe version, download it from https://github.com/vivio2115/managment/releases/tag/v1.2.
 Then just run the program and everything is set
 
+https://cloud-iedjl4td7-hack-club-bot.vercel.app/02024-12-18_14-56-58.mp4
+
 
 **VirustTotal**
 https://www.virustotal.com/gui/file/7243f62f7751fd26ca8bb679c7a0724b651af980f4675acdd35f58d321c17a3d
